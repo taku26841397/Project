@@ -30,4 +30,4 @@ import pandas as pd
 
     df = pd.DataFrame(data)
     print(df)
-    df.to_csv("test2.csv", index=False)
+    
