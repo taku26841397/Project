@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+
+{% block title %}商品一覧{% endblock%}
+{% block content %}
+    <h1>商品詳細</h1>
+
+    <table class="table table-striped table-hober table-bordered">
+        <thead>
+        <tr>
+            <th>商品名</th>
+            <th>価格</th>
+
+        </tr>
+        </thead>
+
+        <tr>
+            <td>{{product.name}}</td>
+            <td>{{product.price}}円</td>
+
+        </tr>
+
+    </table>
+
+    <form method="post" enctype="multipart/form-data">
+    {% csrf_token %}
+
+    <br>
+    <a href="{% url 'list' %}">戻る</a>
+
+
+    </form>
+{% endblock %}
