@@ -13,6 +13,9 @@ class Product(models.Model):
 
     category=models.ForeignKey(Category,on_delete=models.CASCADE, db_column="category_id")
     img=models.ImageField(blank=True,default='noImage.png')
-
+    explanation = models.TextField(blank=True, null=True)
     def __str__(self):
         return self.name
+
+    def get_absolute_url(self):
+        return reverse('list')
