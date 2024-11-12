@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c2a7e96f-32d2-4369-885d-ca435a9dde0d" name="変更" comment="">
+      <change afterPath="$PROJECT_DIR$/config/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django/myproject/crud/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest/management/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest/management/commands/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest/management/commands/custom_runserver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest/management/commands/file_watcher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest/processes/FileController.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest/processes/PtsRunner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest/processes/Watcher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest/processes/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest/processes/pts_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest/processes/pts_start.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest/processes/pts_std_manager.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest/tests/test_StartView.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest/views/CheckView.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest/views/MttrRestartView.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest/views/RestartView.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest/views/StartView.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rest/views/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/myproject/crud/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/django/myproject/crud/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/myproject/crud/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/myproject/crud/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/myproject/myproject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/myproject/myproject/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django/myproject/myproject/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/django/myproject/myproject/urls.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2oMt0Jj8igJDCiShNLZoBPDcNHf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/t.takusari/TvProject/production_virtualization/RestApiCheck",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="Project" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="Project" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\t.takusari\Project2\Project\django\myproject\crud\templates" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-0e3be3396995-c546a90a8094-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-242.23339.19" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="アプリケーションレベル" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="デフォルトタスク">
+      <changelist id="c2a7e96f-32d2-4369-885d-ca435a9dde0d" name="変更" comment="" />
+      <created>1730691047459</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730691047459</updated>
+    </task>
+    <servers />
+  </component>
+</project>
